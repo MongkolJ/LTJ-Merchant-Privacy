@@ -9,6 +9,7 @@ Information Collection and Use
 
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
 The app does use third party services that may collect information used to identify you.
+This application uses Firebase Crashlytics to monitor errors and technical issues. The collected data is anonymized and utilized solely for improving the quality and performance of the application.
 
 Cookies
 
